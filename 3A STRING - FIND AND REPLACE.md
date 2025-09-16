@@ -1,5 +1,5 @@
-# Exp.No:3a
-## STRING - FIND AND REPLACE
+# Exp 3
+# 3a) STRING - FIND AND REPLACE
 
 ---
 
