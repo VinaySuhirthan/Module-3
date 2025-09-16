@@ -1,5 +1,4 @@
-# Exp.No:3e
-## SEB - STRING SLICING - Find the Frequency of a Given Character in a String
+## 3e) SEB - STRING SLICING - Find the Frequency of a Given Character in a String
 
 ---
 
