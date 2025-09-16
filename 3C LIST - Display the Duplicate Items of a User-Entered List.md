@@ -1,5 +1,4 @@
-# Exp.No:3c
-## LIST - Display the Duplicate Items of a User-Entered List
+## 3c) LIST - Display the Duplicate Items of a User-Entered List
 
 ---
 
