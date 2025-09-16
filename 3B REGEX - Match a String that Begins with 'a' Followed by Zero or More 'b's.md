@@ -1,5 +1,4 @@
-# Exp.No:3b  
-## REGEX - Match a String that Begins with 'a' Followed by Zero or More 'b's
+## 3b) REGEX - Match a String that Begins with 'a' Followed by Zero or More 'b's
 
 ---
 
